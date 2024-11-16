@@ -3,33 +3,43 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Introduction
+![Image](/images/MSPLogo2.jpg)
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+The Mars Simulation Project (mars-sim) is an open source project thatvsimulates mission planning, operations and activities of initial settlers on Mars with highcomputer modeling details.
 
-More specifically, the created site:
+Have you ever been fascinated by reality TV shows in which how contestants face tensions and survive tests? Teamwork is put to test. Loners come out of their own social isolation to collaborate with others to accomplish mutual goals. Driven leaders struggle in decision-making but exercise enough self-restrain to avoid pitting against others having better solutions to resolve a challenge.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+![Image](images/marslive.jpg)				
+							
+What mars-sim attempts to model is how early settlers work together to sustain their base. 
+While high-level strategic and mission planning is essential, daily operation of a base falls 
+on how well each individual behaves and relates to one another. Good teamwork and maintaining 
+relationship with one another is crucial. mars-sim endows each settler with personalities, 
+natural attributes and job skills, and preferences (likes-and-dislikes on a bunch of tasks), 
+as there are tasks to get done in developing and sustaining the settlement. mars-sim defines an 
+assigned role and a job position for each settler with a myriad of tasks to perform. While most
+tasks are carried out independently by individuals, some require teaming up with others to get
+done.	
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+With private ventures such as SpaceX offering new vision of going to Mars and the Mars One 
+Foundation seeking to recruit future settlers on a one-way ticket to Mars, mars-sim is giving 
+the audience a preview of the coming attractions in unraveling the intricate innerworking of 
+establishing a human foothold on Mars.
+				
+![Image](images/yourfacehere2.jpg)				
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+The good news is that, unlike in a TV soap opera in that the relationship dynamics of the characters are scripted to appeal to a qualified audience, actions and reactions of each settler in mars-sim are emergent. They interact with one anotherunder certain mission requirements and environmental stressors as the settlement is being developed. Their personality and natural attributes can positively or negatively affect social networking. Just like in real life, the bond between any two individuals gets strengthened with positive feedback and worsen with negative exchange, or degraded over time when less contact is made.
+				
+![Image](images/habitat.gif)
+						
+Below are the typical concerns you may have to work out if you were a mission planner for a human-rated Mars mission: 
 
-To get started with creating a site, simply:
+1. What types of psychological profile of a team should I select for each mission going to Mars to jump-start a colony vs. sustain the settlement? 
+1. How many of them should I send on each mission, accompanied with what resources, parts, equipment, vehicles, and building modules? 
+1. How often should I send these resupply missions to seed each existing settlement or to start a new outpost nearby? 
+1. What interventions do I need to do to ensure these settlers balance between their own personal needs and the collective needs?
+									
+In mars-sim, you will have an opportunity to flesh out your own ideas and test your hypotheses in how a settlement should be run and how mission planning be done.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+![Image](images/stats1.jpg)				

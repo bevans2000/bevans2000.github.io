@@ -1,8 +1,18 @@
-title: Just the Docs Template
+title: Mars Sim
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://bevans2000.github.io
+logo: "images/MSP_logo.jpg"
+color_scheme: mars
+search_enabled: false
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
