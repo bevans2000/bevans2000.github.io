@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://bevans2000.github.io
 logo: "images/MSP_logo.jpg"
 color_scheme: mars
-search_enabled: false
+search_enabled: true
 
 defaults:
   - scope:
@@ -16,3 +16,9 @@ defaults:
 
 #aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+nav_external_links:
+  - title: MarsSim on GitHub
+    url: https://github.com/mars-sim/mars-sim
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false

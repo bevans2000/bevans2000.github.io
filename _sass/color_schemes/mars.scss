@@ -1,16 +1,16 @@
 $color-scheme: mars;
 $body-background-color: $white;
 $body-heading-color: $grey-dk-300;
-$body-text-color: $grey-dk-100 !default;
-$link-color: $purple-000 !default;
-$nav-child-link-color: $grey-lt-100;
-$sidebar-color: $grey-dk-100;
-$base-button-color: #f7f7f7 !default;
-$btn-primary-color: $purple-100 !default;
-$code-background-color: $grey-lt-000 !default;
+$body-text-color: $grey-dk-100;
+$link-color: $red-300;
+$nav-child-link-color: $red-300;
+$sidebar-color: $grey-lt-300;
+$base-button-color: #f7f7f7;
+$btn-primary-color: $purple-100;
+$code-background-color: $grey-lt-000;
 $feedback-color: $red-000;
-$table-background-color: $white !default;
-$search-background-color: $white !default;
-$search-result-preview-color: $grey-dk-000 !default;
+$table-background-color: $white;
+$search-background-color: $white;
+$search-result-preview-color: $grey-dk-000;
 
-@import "./vendor/OneLightJekyll/syntax";
+@import "./color_schemes/light";

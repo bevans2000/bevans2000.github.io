@@ -1,12 +1,8 @@
 ---
 title: Simuation Entities
-nav_order: 1
+nav_order: 9
 parent: Features
 ---
 # Simulation Entities
 
-Blah
-
-Balh
-
-## Cool Stuff
+The simulation uses a number of configuration entities tht define the template/specifications of simulations entities.
