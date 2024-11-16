@@ -3,7 +3,7 @@ description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://bevans2000.github.io
-logo: "images/MSP_logo.jpg"
+logo: "images/MSP_Logo.jpg"
 color_scheme: mars
 search_enabled: true
 
