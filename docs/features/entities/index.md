@@ -1,5 +1,5 @@
 ---
-title: Simuation Entities
+title: Simulation Entities
 nav_order: 9
 parent: Features
 ---

@@ -1,7 +1,7 @@
 ---
 title: Explorer Rover
-parent: Vehicle
-nav_exclude: true
+parent: Vehicle Spec
+nav_exclude: false
 ---
 # Vehicle - Explorer Rover
 
@@ -25,58 +25,21 @@ The Explorer Rover is the only rover that has both a lab and a sick bay bed. &#1
 |Attachment Slots:|0|
 
 
-    <div id="cargo" class="detailsSection">
-      <h3>Storage Capacity</h3>
-      <table class="details">
-          <tr>
-            <td><a href="../resource/methanol.html">Methanol</a></td>
-            <td>100.0</td>
-          </tr>
-          <tr>
-            <td><a href="../resource/grey-water.html">Grey water</a></td>
-            <td>20.0</td>
-          </tr>
-          <tr>
-            <td><a href="../resource/nitrogen.html">Nitrogen</a></td>
-            <td>1.0</td>
-          </tr>
-          <tr>
-            <td><a href="../resource/black-water.html">Black water</a></td>
-            <td>5.0</td>
-          </tr>
-          <tr>
-            <td><a href="../resource/food.html">Food</a></td>
-            <td>70.0</td>
-          </tr>
-          <tr>
-            <td><a href="../resource/water.html">Water</a></td>
-            <td>200.0</td>
-          </tr>
-          <tr>
-            <td><a href="../resource/oxygen.html">Oxygen</a></td>
-            <td>180.0</td>
-          </tr>
-          <tr>
-            <td><a href="../resource/carbon-dioxide.html">Carbon dioxide</a></td>
-            <td>1.0</td>
-          </tr>
-          <tr>
-            <td><a href="../resource/food-waste.html">Food waste</a></td>
-            <td>10.0</td>
-          </tr>
-          <tr>
-            <td><a href="../resource/solid-waste.html">Solid waste</a></td>
-            <td>20.0</td>
-          </tr>
-          <tr>
-            <td><a href="../resource/toxic-waste.html">Toxic waste</a></td>
-            <td>2.0</td>
-          </tr>
-      </table>
-    </div>
-    </br>
-    <a class="backlink" href="index.html">Back to Vehicle list</a>
-	<a class="backlink" href="../../concepts.html">Back to Concepts</a>
-	</body>
-  <footer><small>Version: 3.8.0 Generated on: 2024-08-26T00:04:01.369391</small></footer>
-</html>
+## Storage Capacity
+
+| Resource      | Amount |
+|--------:|:------|
+|[Methanol](../resource/methanol.html)|100.0|
+|[Grey water](../resource/grey-water.html)|20.0|
+|[Nitrogen](../resource/nitrogen.html)|1.0|
+|[Black water](../resource/black-water.html)|5.0|
+|[Food](../resource/food.html)|70.0|
+|[Water](../resource/water.html)|200.0|
+|[Oxygen](../resource/oxygen.html)|180.0|
+|[Carbon dioxide](../resource/carbon-dioxide.html)|1.0|
+|[Food waste](../resource/food-waste.html)|10.0|
+|[Solid waste](../resource/solid-waste.html)|20.0|
+|[Toxic waste](../resource/toxic-waste.html)|2.0|
+
+Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+{: .fs-3 }

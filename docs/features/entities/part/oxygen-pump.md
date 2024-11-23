@@ -1,0 +1,34 @@
+---
+title: Oxygen pump
+parent: Part
+nav_exclude: false
+---
+# Part - Oxygen pump
+
+## Description
+no description available.
+
+## Characteristics
+
+| Attribute      | Value |
+|--------:|:------|
+|Mass:|5.0 kg|
+|Type:|Utility|
+
+## Made by Manufacturing Process
+
+- [Make oxygen pump](../process/make-oxygen-pump.html)
+
+## Used by Manufacturing Process
+
+- [Assemble LUV](../process/assemble-luv.html)
+- [Assemble explorer rover](../process/assemble-explorer-rover.html)
+- [Assemble transport rover](../process/assemble-transport-rover.html)
+- [Assemble cargo rover](../process/assemble-cargo-rover.html)
+- [Manufacture pneumatic drill](../process/manufacture-pneumatic-drill.html)
+- [Make mushroom containment kit](../process/make-mushroom-containment-kit.html)
+
+
+Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+{: .fs-3 }
+
