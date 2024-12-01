@@ -1,7 +1,7 @@
 ---
 title: Pyroxene
 parent: Resource
-nav_exclude: false
+nav_exclude: true
 ---
 # Resource - Pyroxene
 
@@ -21,5 +21,5 @@ Pyroxenes have the general formula XY(Si,Al)2O6,&#10;&#9; where X represents cal
 
     
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

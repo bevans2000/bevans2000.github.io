@@ -1,7 +1,7 @@
 ---
 title: Large Greenhouse
 parent: Building Spec
-nav_exclude: false
+nav_exclude: true
 ---
 # Building Template - Large Greenhouse
 
@@ -19,7 +19,7 @@ The Large Greenhouse is made of stronger structural and cladding material such a
 |Maintenance Period:|250|
 |Power Demands:|4.0 kW|
 |Offline Power Demands:|0.4 kW|
-
+|Construction:|[Large Greenhouse](../construction/large-greenhouse.html)|
 
 ## Functions
       
@@ -46,5 +46,5 @@ The Large Greenhouse is made of stronger structural and cladding material such a
 - Electric Heating
 - Fuel Heating
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

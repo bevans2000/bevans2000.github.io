@@ -4,7 +4,13 @@ parent: Simulation Entities
 has_toc: false
 ---
 # Resource
-Resources that can be stored and used for manufacturing and cooking.. 
+Resources that can be stored and used for manufacturing and cooking..
+
+Change via XML
+{: .label .label-green }
+
+
+
 Grouped by Phase.
 
 [Gas](#A-gas)
@@ -298,5 +304,5 @@ Grouped by Phase.
 - [scandium](../resource/scandium.html)
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

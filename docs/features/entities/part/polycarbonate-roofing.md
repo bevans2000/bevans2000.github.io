@@ -1,7 +1,7 @@
 ---
 title: Polycarbonate roofing
 parent: Part
-nav_exclude: false
+nav_exclude: true
 ---
 # Part - Polycarbonate roofing
 
@@ -21,6 +21,6 @@ Assume 2m x 2m, highly transparent, &quot;bullet-resistant&quot; plastic claddin
 
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

@@ -1,7 +1,7 @@
 ---
 title: Make Granola Bar Recipe #2
 parent: Food Recipe
-nav_exclude: false
+nav_exclude: true
 ---
 # Food - Make Granola Bar Recipe #2
 
@@ -30,6 +30,6 @@ Make granola bar using puffed quinoa/rice/wheat, honey/sugarcane, nuts and dried
 |[Granola Bar](../resource/granola-bar.html)|6.0 kg|
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

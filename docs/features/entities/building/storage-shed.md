@@ -1,7 +1,7 @@
 ---
 title: Storage Shed
 parent: Building Spec
-nav_exclude: false
+nav_exclude: true
 ---
 # Building Template - Storage Shed
 
@@ -19,7 +19,7 @@ The Storage Shed is a small brick building for storing resources for the settlem
 |Maintenance Period:|50|
 |Power Demands:|0.3 kW|
 |Offline Power Demands:|0.03 kW|
-
+|Construction:|[Storage Shed](../construction/storage-shed.html)|
 
 ## Functions
       
@@ -40,5 +40,5 @@ The Storage Shed is a small brick building for storing resources for the settlem
 - Solar Heating
 - Electric Heating
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

@@ -1,7 +1,7 @@
 ---
 title: Wind Turbine
 parent: Building Spec
-nav_exclude: false
+nav_exclude: true
 ---
 # Building Template - Wind Turbine
 
@@ -19,7 +19,7 @@ This Vertical Axis Wind Turbine (VAWT) is constructed with strong, lightweight m
 |Maintenance Period:|400|
 |Power Demands:|0.1 kW|
 |Offline Power Demands:|0.05 kW|
-
+|Construction:|[Wind Turbine](../construction/wind-turbine.html)|
 
 ## Functions
       
@@ -32,5 +32,5 @@ This Vertical Axis Wind Turbine (VAWT) is constructed with strong, lightweight m
 - Wind Power Source
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

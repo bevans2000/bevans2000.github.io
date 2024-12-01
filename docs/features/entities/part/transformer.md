@@ -1,7 +1,7 @@
 ---
 title: Transformer
 parent: Part
-nav_exclude: false
+nav_exclude: true
 ---
 # Part - Transformer
 
@@ -25,6 +25,6 @@ no description available.
 - [Manufacture electrostatic precipitator](../process/manufacture-electrostatic-precipitator.html)
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

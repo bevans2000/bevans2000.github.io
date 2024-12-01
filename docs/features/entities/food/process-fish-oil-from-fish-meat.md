@@ -1,7 +1,7 @@
 ---
 title: Process fish oil from fish meat
 parent: Food Recipe
-nav_exclude: false
+nav_exclude: true
 ---
 # Food - Process fish oil from fish meat
 
@@ -27,6 +27,6 @@ Derive fish oil from fish meats. Press and refine it&#10;&#9;&#9;&#9;for use
 |[fish oil](../resource/fish-oil.html)|0.5 kg|
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

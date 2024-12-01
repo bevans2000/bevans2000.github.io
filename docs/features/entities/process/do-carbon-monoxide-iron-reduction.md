@@ -1,7 +1,7 @@
 ---
 title: Do carbon monoxide iron reduction
 parent: Manufacturing Process
-nav_exclude: false
+nav_exclude: true
 ---
 # Manufacturing Process - Do carbon monoxide iron reduction
 
@@ -29,6 +29,6 @@ Fe&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; + 3CO -&gt; 2Fe + 3CO&lt;sub
 |[iron powder](../resource/iron-powder.html)|34.9 kg|
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

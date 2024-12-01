@@ -1,7 +1,7 @@
 ---
 title: Roll heat pipe from aluminum sheet
 parent: Manufacturing Process
-nav_exclude: false
+nav_exclude: true
 ---
 # Manufacturing Process - Roll heat pipe from aluminum sheet
 
@@ -25,6 +25,6 @@ nav_exclude: false
 |[heat pipe](../part/heat-pipe.html)|4|
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

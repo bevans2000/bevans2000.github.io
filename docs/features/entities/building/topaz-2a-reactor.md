@@ -1,7 +1,7 @@
 ---
 title: TOPAZ-2A Reactor
 parent: Building Spec
-nav_exclude: false
+nav_exclude: true
 ---
 # Building Template - TOPAZ-2A Reactor
 
@@ -20,7 +20,6 @@ The TOPAZ-2A Reactor is a minor improvement of the TOPAZ-II reactor system, whic
 |Power Demands:|1.0 kW|
 |Offline Power Demands:|0.1 kW|
 
-
 ## Functions
       
 - POWER_GENERATION
@@ -32,5 +31,5 @@ The TOPAZ-2A Reactor is a minor improvement of the TOPAZ-II reactor system, whic
 - Thermionic Nuclear Power Source
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

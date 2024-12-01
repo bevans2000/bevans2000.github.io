@@ -1,7 +1,7 @@
 ---
 title: Aluminum Scrap
 parent: Part
-nav_exclude: false
+nav_exclude: true
 ---
 # Part - Aluminum Scrap
 
@@ -21,6 +21,6 @@ A 5 kg piece of salvaged aluminum scrap.
 - [Recycle aluminum scrap](../process/recycle-aluminum-scrap.html)
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

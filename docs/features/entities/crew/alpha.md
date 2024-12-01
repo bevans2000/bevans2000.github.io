@@ -1,7 +1,7 @@
 ---
 title: Alpha
 parent: Crew
-nav_exclude: false
+nav_exclude: true
 ---
 # Crew - Alpha
 
@@ -18,5 +18,5 @@ Preloaded Alpha crew
 |Lena LaGranda|Female||Technician|United States||
 |Ray Bradbury|Male|50|Doctor|United States||
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

@@ -1,7 +1,7 @@
 ---
 title: Quinoa
 parent: Resource
-nav_exclude: false
+nav_exclude: true
 ---
 # Resource - Quinoa
 
@@ -32,5 +32,5 @@ A nutritious grain&#10;&#9;&#9;having most amino acids
 - [Make Veggie Patty from Quinoa Tempeh and Spice](../food/make-veggie-patty-from-quinoa-tempeh-and-spice.html)
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

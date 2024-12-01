@@ -1,7 +1,7 @@
 ---
 title: Wheat flour
 parent: Resource
-nav_exclude: false
+nav_exclude: true
 ---
 # Resource - Wheat flour
 
@@ -34,5 +34,5 @@ Flour made from wheat kernel.
 - [Make Pizza Dough](../food/make-pizza-dough.html)
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

@@ -4,7 +4,13 @@ parent: Simulation Entities
 has_toc: false
 ---
 # Complaint
-Health Complaints affecting Persons. 
+Health Complaints affecting Persons.
+
+Change via XML
+{: .label .label-green }
+
+
+
 Grouped by Seriousness.
 
 [1 to 10](#A-1-to-10)
@@ -78,5 +84,5 @@ Grouped by Seriousness.
 - [Ruptured Appendix](../complaint/ruptured-appendix.html)
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

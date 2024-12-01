@@ -1,7 +1,7 @@
 ---
 title: Logic board
 parent: Part
-nav_exclude: false
+nav_exclude: true
 ---
 # Part - Logic board
 
@@ -39,6 +39,6 @@ a printed circuit board (PCB) that&#10;&#9;&#9;mechanically supports and electri
 - [Make methanol fuel cell stack](../process/make-methanol-fuel-cell-stack.html)
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

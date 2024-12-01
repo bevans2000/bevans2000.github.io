@@ -4,7 +4,13 @@ parent: Simulation Entities
 has_toc: false
 ---
 # Part
-Parts used for repairs and processes. 
+Parts used for repairs and processes.
+
+Change via XML
+{: .label .label-green }
+
+
+
 Grouped by Good Type.
 
 [Attachment](#A-attachment)
@@ -215,5 +221,5 @@ Grouped by Good Type.
 - [Wheel small](../part/wheel-small.html)
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

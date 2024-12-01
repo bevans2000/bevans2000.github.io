@@ -1,7 +1,7 @@
 ---
 title: Residential Hab
 parent: Building Spec
-nav_exclude: false
+nav_exclude: true
 ---
 # Building Template - Residential Hab
 
@@ -19,7 +19,7 @@ The Residential Hab is a Lander Hab refitted residential quarters for living acc
 |Maintenance Period:|150|
 |Power Demands:|2.0 kW|
 |Offline Power Demands:|0.2 kW|
-
+|Construction:|[Residential Hab](../construction/residential-hab.html)|
 
 ## Functions
       
@@ -43,5 +43,5 @@ The Residential Hab is a Lander Hab refitted residential quarters for living acc
 - Electric Heating
 - Fuel Heating
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

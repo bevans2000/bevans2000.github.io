@@ -1,7 +1,7 @@
 ---
 title: Press and Refine Peanut Oil from Peanuts
 parent: Food Recipe
-nav_exclude: false
+nav_exclude: true
 ---
 # Food - Press and Refine Peanut Oil from Peanuts
 
@@ -27,6 +27,6 @@ Derive vegetable oil from peanuts. Press and refine it&#10;&#9;&#9;&#9;for use
 |[Peanut Oil](../resource/peanut-oil.html)|2.0 kg|
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

@@ -1,7 +1,7 @@
 ---
 title: Manufacturing Shed
 parent: Building Spec
-nav_exclude: false
+nav_exclude: true
 ---
 # Building Template - Manufacturing Shed
 
@@ -19,7 +19,7 @@ The Manufacturing Shed is a small brick manufacturing building for forming, cutt
 |Maintenance Period:|200|
 |Power Demands:|2.0 kW|
 |Offline Power Demands:|0.2 kW|
-
+|Construction:|[Manufacturing Shed](../construction/manufacturing-shed.html)|
 
 ## Functions
       
@@ -38,5 +38,5 @@ The Manufacturing Shed is a small brick manufacturing building for forming, cutt
 - Electric Heating
 - Fuel Heating
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

@@ -1,7 +1,7 @@
 ---
 title: Storage Hab
 parent: Building Spec
-nav_exclude: false
+nav_exclude: true
 ---
 # Building Template - Storage Hab
 
@@ -19,7 +19,7 @@ The Storage Hab is a Lander Hab refitted storage building with ample storage spa
 |Maintenance Period:|50|
 |Power Demands:|1.0 kW|
 |Offline Power Demands:|0.1 kW|
-
+|Construction:|[Storage Hab](../construction/storage-hab.html)|
 
 ## Functions
       
@@ -42,5 +42,5 @@ The Storage Hab is a Lander Hab refitted storage building with ample storage spa
 - Electric Heating
 - Fuel Heating
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

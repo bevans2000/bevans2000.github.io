@@ -1,7 +1,7 @@
 ---
 title: Make Okara Blueberry Muffin
 parent: Food Recipe
-nav_exclude: false
+nav_exclude: true
 ---
 # Food - Make Okara Blueberry Muffin
 
@@ -34,6 +34,6 @@ Mix flour, sugar, salt, baking powder, honey, and blueberry&#10;&#9;&#9;&#9;and 
 |[Blueberry Muffin](../resource/blueberry-muffin.html)|2.1 kg|
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

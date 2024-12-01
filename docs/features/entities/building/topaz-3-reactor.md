@@ -1,7 +1,7 @@
 ---
 title: TOPAZ-3 Reactor
 parent: Building Spec
-nav_exclude: false
+nav_exclude: true
 ---
 # Building Template - TOPAZ-3 Reactor
 
@@ -20,7 +20,6 @@ The TOPAZ-3 Reactor doubles the number of TFEs cells to 74 and has higher therma
 |Power Demands:|1.0 kW|
 |Offline Power Demands:|0.1 kW|
 
-
 ## Functions
       
 - POWER_GENERATION
@@ -32,5 +31,5 @@ The TOPAZ-3 Reactor doubles the number of TFEs cells to 74 and has higher therma
 - Thermionic Nuclear Power Source
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

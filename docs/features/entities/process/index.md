@@ -4,7 +4,13 @@ parent: Simulation Entities
 has_toc: false
 ---
 # Manufacturing Process
-Manufacturing Processes that consume resoruce to create new resources.. 
+Manufacturing Processes that consume resoruce to create new resources..
+
+Change via XML
+{: .label .label-green }
+
+
+
 Grouped by Name.
 
 [A](#A-a)
@@ -304,5 +310,5 @@ Grouped by Name.
 - [Weave fiberglass cloth](../process/weave-fiberglass-cloth.html)
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

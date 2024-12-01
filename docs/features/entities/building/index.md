@@ -4,7 +4,13 @@ parent: Simulation Entities
 has_toc: false
 ---
 # Building Spec
-Building Specifications available for bases. 
+Building Specifications available for bases.
+
+Change via XML
+{: .label .label-green }
+
+
+
 Grouped by Category.
 
 [Airlock](#A-airlock)
@@ -125,5 +131,5 @@ Grouped by Category.
 - [Loading Dock Garage](../building/loading-dock-garage.html)
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

@@ -1,7 +1,7 @@
 ---
 title: EVA Battery
 parent: Part
-nav_exclude: false
+nav_exclude: true
 ---
 # Part - EVA Battery
 
@@ -25,6 +25,6 @@ Assuming the future achievement of 1 kg/kWh or 1 kWh/kg, &#10;&#9;&#9; (as of 4 
 - [Assemble EVA suit](../process/assemble-eva-suit.html)
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

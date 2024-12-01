@@ -1,7 +1,7 @@
 ---
 title: Wheat
 parent: Resource
-nav_exclude: false
+nav_exclude: true
 ---
 # Resource - Wheat
 
@@ -31,5 +31,5 @@ Wheat Kernels are&#10;&#9;&#9;seeds harvested from wheat crop. The kernel is the
 - [Make Soy Sauce by Fermentation](../food/make-soy-sauce-by-fermentation.html)
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

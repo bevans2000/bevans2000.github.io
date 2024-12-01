@@ -1,7 +1,7 @@
 ---
 title: Central Hub A
 parent: Building Spec
-nav_exclude: false
+nav_exclude: true
 ---
 # Building Template - Central Hub A
 
@@ -19,7 +19,6 @@ The Central Hub serves to a nexus for connecting other building modules. It has 
 |Maintenance Period:|300|
 |Power Demands:|5.0 kW|
 |Offline Power Demands:|1.0 kW|
-
 
 ## Functions
       
@@ -52,5 +51,5 @@ The Central Hub serves to a nexus for connecting other building modules. It has 
 - Electric Heating
 - Fuel Heating
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

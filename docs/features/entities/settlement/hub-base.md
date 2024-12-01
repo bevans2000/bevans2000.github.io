@@ -1,7 +1,7 @@
 ---
 title: Hub Base
 parent: Settlement Template
-nav_exclude: false
+nav_exclude: true
 ---
 # Settlement Template - Hub Base
 
@@ -110,8 +110,8 @@ Base With Central Hub
 |Medium Battery Array 1|[Medium Battery Array](../building/medium-battery-array.html)|
 |Medium Battery Array 2|[Medium Battery Array](../building/medium-battery-array.html)|
 |Medium Battery Array 3|[Medium Battery Array](../building/medium-battery-array.html)|
-|Medium Battery Array 3|[Medium Battery Array](../building/medium-battery-array.html)|
 |Medium Battery Array 4|[Medium Battery Array](../building/medium-battery-array.html)|
+|Medium Battery Array 5|[Medium Battery Array](../building/medium-battery-array.html)|
 |Metal Storage 1|[Metal Storage](../building/metal-storage.html)|
 |Metal Storage 2|[Metal Storage](../building/metal-storage.html)|
 |Ore Storage 1|[Ore Storage](../building/ore-storage.html)|
@@ -150,120 +150,120 @@ Base With Central Hub
 
 | Name | Type | Quantity |
 |:-----|:-----|-----:|
-|[Air Compressor](../part/air-compressor.html")|Part|25|
-|[Air Duct](../part/air-duct.html")|Part|60|
-|[Airleak Patch](../part/airleak-patch.html")|Part|842|
-|[Autoclave](../part/autoclave.html")|Part|25|
-|[Backhoe](../part/backhoe.html")|Part|8|
-|[Battery Module](../part/battery-module.html")|Part|20|
-|[Blender](../part/blender.html")|Part|25|
-|[Bore Drill Bit](../part/bore-drill-bit.html")|Part|8|
-|[Bore Drill Pipe](../part/bore-drill-pipe.html")|Part|90|
-|[Bulldozer Blade](../part/bulldozer-blade.html")|Part|8|
-|[Carbon Dioxide laser](../part/carbon-dioxide-laser.html")|Part|40|
-|[Carbon Dioxide pump](../part/carbon-dioxide-pump.html")|Part|25|
-|[Charcoal filter](../part/charcoal-filter.html")|Part|30|
-|[Communications Circuit Board](../part/communications-circuit-board.html")|Part|16|
-|[Condenser Coil](../part/condenser-coil.html")|Part|8|
-|[Coolant Bottle](../part/coolant-bottle.html")|Part|82|
-|[Copper Pipe](../part/copper-pipe.html")|Part|62|
-|[Coveralls](../part/coveralls.html")|Part|80|
-|[Crane Boom](../part/crane-boom.html")|Part|8|
-|[Decontamination kit](../part/decontamination-kit.html")|Part|16|
-|[Drilling Rig](../part/drilling-rig.html")|Part|8|
-|[EVA Antenna](../part/eva-antenna.html")|Part|160|
-|[EVA Battery](../part/eva-battery.html")|Part|80|
-|[EVA Boots](../part/eva-boots.html")|Part|80|
-|[EVA Gloves](../part/eva-gloves.html")|Part|80|
-|[EVA Helmet](../part/eva-helmet.html")|Part|80|
-|[EVA Pads](../part/eva-pads.html")|Part|80|
-|[EVA Radio](../part/eva-radio.html")|Part|96|
-|[EVA backpack](../part/eva-backpack.html")|Part|40|
-|[Electrical Wire](../part/electrical-wire.html")|Part|1625|
-|[Electrostatic Precipitator](../part/electrostatic-precipitator.html")|Part|30|
-|[Fiberglass](../part/fiberglass.html")|Part|30|
-|[Fiberglass Cloth](../part/fiberglass-cloth.html")|Part|100|
-|[Fire Extinguisher](../part/fire-extinguisher.html")|Part|124|
-|[Flexible hose](../part/flexible-hose.html")|Part|60|
-|[Food](../resource/food.html")|Resource|4320.0 kg|
-|[Fuel Tank](../part/fuel-tank.html")|Part|100|
-|[Fuel pump](../part/fuel-pump.html")|Part|12|
-|[Garment](../part/garment.html")|Part|64|
-|[Gas Tank](../part/gas-tank.html")|Part|100|
-|[Gasket](../part/gasket.html")|Part|540|
-|[Heat pipe](../part/heat-pipe.html")|Part|146|
-|[Heat pump](../part/heat-pump.html")|Part|25|
-|[Heating Element](../part/heating-element.html")|Part|146|
-|[Helium Neon laser](../part/helium-neon-laser.html")|Part|40|
-|[Helmet Visor](../part/helmet-visor.html")|Part|40|
-|[Iron Pipe](../part/iron-pipe.html")|Part|56|
-|[Light Emitting Diode bulb](../part/light-emitting-diode-bulb.html")|Part|300|
-|[Light Emitting Diode kit](../part/light-emitting-diode-kit.html")|Part|140|
-|[Logic board](../part/logic-board.html")|Part|250|
-|[Lubricant Bottle](../part/lubricant-bottle.html")|Part|98|
-|[Methane Fuel cell](../part/methane-fuel-cell.html")|Part|1200|
-|[Methane Fuel cell stack](../part/methane-fuel-cell-stack.html")|Part|18|
-|[Methanol Fuel cell](../part/methanol-fuel-cell.html")|Part|1200|
-|[Methanol Fuel cell stack](../part/methanol-fuel-cell-stack.html")|Part|18|
-|[Microcontroller](../part/microcontroller.html")|Part|520|
-|[Microwave](../part/microwave.html")|Part|20|
-|[Motor 10 kW](../part/motor-10-kw.html")|Part|13|
-|[Motor 30 kW](../part/motor-30-kw.html")|Part|9|
-|[Motor 5 kW](../part/motor-5-kw.html")|Part|20|
-|[Mushroom Containment kit](../part/mushroom-containment-kit.html")|Part|30|
-|[Navigation Circuit Board](../part/navigation-circuit-board.html")|Part|10|
-|[Optical Lens](../part/optical-lens.html")|Part|120|
-|[Optical Prism](../part/optical-prism.html")|Part|120|
-|[Oven](../part/oven.html")|Part|25|
-|[Oxygen](../resource/oxygen.html")|Resource|5760.0 kg|
-|[Oxygen pump](../part/oxygen-pump.html")|Part|10|
-|[Pathogen filter](../part/pathogen-filter.html")|Part|18|
-|[Petri dish](../part/petri-dish.html")|Part|600|
-|[Plasma cutter](../part/plasma-cutter.html")|Part|8|
-|[Plastic Bottle](../part/plastic-bottle.html")|Part|906|
-|[Plastic Pipe](../part/plastic-pipe.html")|Part|125|
-|[Plastic Sheet](../part/plastic-sheet.html")|Part|22|
-|[Plastic Tubing](../part/plastic-tubing.html")|Part|324|
-|[Pneumatic Drill](../part/pneumatic-drill.html")|Part|8|
-|[Polycarbonate roofing](../part/polycarbonate-roofing.html")|Part|70|
-|[Power Cable](../part/power-cable.html")|Part|60|
-|[Power Transistor](../part/power-transistor.html")|Part|520|
-|[Pressure Suit](../part/pressure-suit.html")|Part|80|
-|[Propeller](../part/propeller.html")|Part|16|
-|[Radio Antenna](../part/radio-antenna.html")|Part|40|
-|[Refrigerator](../part/refrigerator.html")|Part|25|
-|[Rover Control Panel](../part/rover-control-panel.html")|Part|10|
-|[Rover Wheel](../part/rover-wheel.html")|Part|50|
-|[Rover Windshield](../part/rover-windshield.html")|Part|10|
-|[SLS 3D Printer](../part/sls-3d-printer.html")|Part|22|
-|[Satellite Dish](../part/satellite-dish.html")|Part|22|
-|[Semiconductor Wafer](../part/semiconductor-wafer.html")|Part|30|
-|[Soil Compactor](../part/soil-compactor.html")|Part|8|
-|[Solar Panel](../part/solar-panel.html")|Part|14|
-|[Spark Plug](../part/spark-plug.html")|Part|82|
-|[Steel Pipe](../part/steel-pipe.html")|Part|56|
-|[Steel Post](../part/steel-post.html")|Part|55|
-|[Stepper Motor](../part/stepper-motor.html")|Part|26|
-|[Stove](../part/stove.html")|Part|25|
-|[Suit Heating Unit](../part/suit-heating-unit.html")|Part|44|
-|[Timing Belt](../part/timing-belt.html")|Part|74|
-|[Transformer](../part/transformer.html")|Part|35|
-|[Utility Vehicle Control Panel](../part/utility-vehicle-control-panel.html")|Part|6|
-|[Valve](../part/valve.html")|Part|294|
-|[Vehicle Chassis Panel](../part/vehicle-chassis-panel.html")|Part|18|
-|[Ventilation fan](../part/ventilation-fan.html")|Part|25|
-|[Water](../resource/water.html")|Resource|7200.0 kg|
-|[Water Pump large](../part/water-pump-large.html")|Part|6|
-|[Water Pump small](../part/water-pump-small.html")|Part|18|
-|[Water Tank](../part/water-tank.html")|Part|100|
-|[Wheel small](../part/wheel-small.html")|Part|6|
-|[Winch](../part/winch.html")|Part|10|
-|[Window](../part/window.html")|Part|16|
-|[Wire Connector](../part/wire-connector.html")|Part|1047|
-|[Work gloves](../part/work-gloves.html")|Part|80|
-|[basket](../null/basket.html")|Bin|40|
-|[crate](../null/crate.html")|Bin|40|
-|[pot](../null/pot.html")|Bin|40|
+|[Air Compressor](../part/air-compressor.html)|Part|25|
+|[Air Duct](../part/air-duct.html)|Part|60|
+|[Airleak Patch](../part/airleak-patch.html)|Part|842|
+|[Autoclave](../part/autoclave.html)|Part|25|
+|[Backhoe](../part/backhoe.html)|Part|8|
+|[Battery Module](../part/battery-module.html)|Part|20|
+|[Blender](../part/blender.html)|Part|25|
+|[Bore Drill Bit](../part/bore-drill-bit.html)|Part|8|
+|[Bore Drill Pipe](../part/bore-drill-pipe.html)|Part|90|
+|[Bulldozer Blade](../part/bulldozer-blade.html)|Part|8|
+|[Carbon Dioxide laser](../part/carbon-dioxide-laser.html)|Part|40|
+|[Carbon Dioxide pump](../part/carbon-dioxide-pump.html)|Part|25|
+|[Charcoal filter](../part/charcoal-filter.html)|Part|30|
+|[Communications Circuit Board](../part/communications-circuit-board.html)|Part|16|
+|[Condenser Coil](../part/condenser-coil.html)|Part|8|
+|[Coolant Bottle](../part/coolant-bottle.html)|Part|82|
+|[Copper Pipe](../part/copper-pipe.html)|Part|62|
+|[Coveralls](../part/coveralls.html)|Part|80|
+|[Crane Boom](../part/crane-boom.html)|Part|8|
+|[Decontamination kit](../part/decontamination-kit.html)|Part|16|
+|[Drilling Rig](../part/drilling-rig.html)|Part|8|
+|[EVA Antenna](../part/eva-antenna.html)|Part|160|
+|[EVA Battery](../part/eva-battery.html)|Part|80|
+|[EVA Boots](../part/eva-boots.html)|Part|80|
+|[EVA Gloves](../part/eva-gloves.html)|Part|80|
+|[EVA Helmet](../part/eva-helmet.html)|Part|80|
+|[EVA Pads](../part/eva-pads.html)|Part|80|
+|[EVA Radio](../part/eva-radio.html)|Part|96|
+|[EVA backpack](../part/eva-backpack.html)|Part|40|
+|[Electrical Wire](../part/electrical-wire.html)|Part|1625|
+|[Electrostatic Precipitator](../part/electrostatic-precipitator.html)|Part|30|
+|[Fiberglass](../part/fiberglass.html)|Part|30|
+|[Fiberglass Cloth](../part/fiberglass-cloth.html)|Part|100|
+|[Fire Extinguisher](../part/fire-extinguisher.html)|Part|124|
+|[Flexible hose](../part/flexible-hose.html)|Part|60|
+|[Food](../resource/food.html)|Resource|4320.0 kg|
+|[Fuel Tank](../part/fuel-tank.html)|Part|100|
+|[Fuel pump](../part/fuel-pump.html)|Part|12|
+|[Garment](../part/garment.html)|Part|64|
+|[Gas Tank](../part/gas-tank.html)|Part|100|
+|[Gasket](../part/gasket.html)|Part|540|
+|[Heat pipe](../part/heat-pipe.html)|Part|146|
+|[Heat pump](../part/heat-pump.html)|Part|25|
+|[Heating Element](../part/heating-element.html)|Part|146|
+|[Helium Neon laser](../part/helium-neon-laser.html)|Part|40|
+|[Helmet Visor](../part/helmet-visor.html)|Part|40|
+|[Iron Pipe](../part/iron-pipe.html)|Part|56|
+|[Light Emitting Diode bulb](../part/light-emitting-diode-bulb.html)|Part|300|
+|[Light Emitting Diode kit](../part/light-emitting-diode-kit.html)|Part|140|
+|[Logic board](../part/logic-board.html)|Part|250|
+|[Lubricant Bottle](../part/lubricant-bottle.html)|Part|98|
+|[Methane Fuel cell](../part/methane-fuel-cell.html)|Part|1200|
+|[Methane Fuel cell stack](../part/methane-fuel-cell-stack.html)|Part|18|
+|[Methanol Fuel cell](../part/methanol-fuel-cell.html)|Part|1200|
+|[Methanol Fuel cell stack](../part/methanol-fuel-cell-stack.html)|Part|18|
+|[Microcontroller](../part/microcontroller.html)|Part|520|
+|[Microwave](../part/microwave.html)|Part|20|
+|[Motor 10 kW](../part/motor-10-kw.html)|Part|13|
+|[Motor 30 kW](../part/motor-30-kw.html)|Part|9|
+|[Motor 5 kW](../part/motor-5-kw.html)|Part|20|
+|[Mushroom Containment kit](../part/mushroom-containment-kit.html)|Part|30|
+|[Navigation Circuit Board](../part/navigation-circuit-board.html)|Part|10|
+|[Optical Lens](../part/optical-lens.html)|Part|120|
+|[Optical Prism](../part/optical-prism.html)|Part|120|
+|[Oven](../part/oven.html)|Part|25|
+|[Oxygen](../resource/oxygen.html)|Resource|5760.0 kg|
+|[Oxygen pump](../part/oxygen-pump.html)|Part|10|
+|[Pathogen filter](../part/pathogen-filter.html)|Part|18|
+|[Petri dish](../part/petri-dish.html)|Part|600|
+|[Plasma cutter](../part/plasma-cutter.html)|Part|8|
+|[Plastic Bottle](../part/plastic-bottle.html)|Part|906|
+|[Plastic Pipe](../part/plastic-pipe.html)|Part|125|
+|[Plastic Sheet](../part/plastic-sheet.html)|Part|22|
+|[Plastic Tubing](../part/plastic-tubing.html)|Part|324|
+|[Pneumatic Drill](../part/pneumatic-drill.html)|Part|8|
+|[Polycarbonate roofing](../part/polycarbonate-roofing.html)|Part|70|
+|[Power Cable](../part/power-cable.html)|Part|60|
+|[Power Transistor](../part/power-transistor.html)|Part|520|
+|[Pressure Suit](../part/pressure-suit.html)|Part|80|
+|[Propeller](../part/propeller.html)|Part|16|
+|[Radio Antenna](../part/radio-antenna.html)|Part|40|
+|[Refrigerator](../part/refrigerator.html)|Part|25|
+|[Rover Control Panel](../part/rover-control-panel.html)|Part|10|
+|[Rover Wheel](../part/rover-wheel.html)|Part|50|
+|[Rover Windshield](../part/rover-windshield.html)|Part|10|
+|[SLS 3D Printer](../part/sls-3d-printer.html)|Part|22|
+|[Satellite Dish](../part/satellite-dish.html)|Part|22|
+|[Semiconductor Wafer](../part/semiconductor-wafer.html)|Part|30|
+|[Soil Compactor](../part/soil-compactor.html)|Part|8|
+|[Solar Panel](../part/solar-panel.html)|Part|14|
+|[Spark Plug](../part/spark-plug.html)|Part|82|
+|[Steel Pipe](../part/steel-pipe.html)|Part|56|
+|[Steel Post](../part/steel-post.html)|Part|55|
+|[Stepper Motor](../part/stepper-motor.html)|Part|26|
+|[Stove](../part/stove.html)|Part|25|
+|[Suit Heating Unit](../part/suit-heating-unit.html)|Part|44|
+|[Timing Belt](../part/timing-belt.html)|Part|74|
+|[Transformer](../part/transformer.html)|Part|35|
+|[Utility Vehicle Control Panel](../part/utility-vehicle-control-panel.html)|Part|6|
+|[Valve](../part/valve.html)|Part|294|
+|[Vehicle Chassis Panel](../part/vehicle-chassis-panel.html)|Part|18|
+|[Ventilation fan](../part/ventilation-fan.html)|Part|25|
+|[Water](../resource/water.html)|Resource|7200.0 kg|
+|[Water Pump large](../part/water-pump-large.html)|Part|6|
+|[Water Pump small](../part/water-pump-small.html)|Part|18|
+|[Water Tank](../part/water-tank.html)|Part|100|
+|[Wheel small](../part/wheel-small.html)|Part|6|
+|[Winch](../part/winch.html)|Part|10|
+|[Window](../part/window.html)|Part|16|
+|[Wire Connector](../part/wire-connector.html)|Part|1047|
+|[Work gloves](../part/work-gloves.html)|Part|80|
+|[basket](../null/basket.html)|Bin|40|
+|[crate](../null/crate.html)|Bin|40|
+|[pot](../null/pot.html)|Bin|40|
 
 ## Equipment
 
@@ -303,7 +303,7 @@ Base With Central Hub
 
 | Name      | 1st Arrival | Supply Plan | Frequency (sols) |
 |--------:|:------|:-----|-------:|
-|Food Delivery||Food Resupply 1||
+|Food Delivery|30|[Food Resupply 1](../manifest/food-resupply-1.html)|62|
     
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

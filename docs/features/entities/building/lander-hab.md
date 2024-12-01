@@ -1,7 +1,7 @@
 ---
 title: Lander Hab
 parent: Building Spec
-nav_exclude: false
+nav_exclude: true
 ---
 # Building Template - Lander Hab
 
@@ -19,7 +19,7 @@ The Lander Hab is a jack-of-all-trades building that houses many basic but criti
 |Maintenance Period:|250|
 |Power Demands:|3.0 kW|
 |Offline Power Demands:|0.3 kW|
-
+|Construction:|[Lander Hab](../construction/lander-hab.html)|
 
 ## Functions
       
@@ -58,5 +58,5 @@ The Lander Hab is a jack-of-all-trades building that houses many basic but criti
 - Electric Heating
 - Fuel Heating
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

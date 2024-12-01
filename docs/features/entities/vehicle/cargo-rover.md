@@ -1,7 +1,7 @@
 ---
 title: Cargo Rover
 parent: Vehicle Spec
-nav_exclude: false
+nav_exclude: true
 ---
 # Vehicle - Cargo Rover
 
@@ -39,5 +39,5 @@ The Cargo Rover is for transporting cargo from one settlement to another.&#10;&#
 |[Solid waste](../resource/solid-waste.html)|80.0|
 |[Toxic waste](../resource/toxic-waste.html)|16.0|
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

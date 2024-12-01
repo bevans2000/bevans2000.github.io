@@ -1,7 +1,7 @@
 ---
 title: Copper Sheet
 parent: Part
-nav_exclude: false
+nav_exclude: true
 ---
 # Part - Copper Sheet
 
@@ -27,6 +27,6 @@ A density of 8.94 g/cm3. 1m x 1m x 1mm sheet of copper
 - [Make heat pump](../process/make-heat-pump.html)
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

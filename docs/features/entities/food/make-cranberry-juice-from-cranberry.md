@@ -1,7 +1,7 @@
 ---
 title: Make Cranberry Juice from Cranberry
 parent: Food Recipe
-nav_exclude: false
+nav_exclude: true
 ---
 # Food - Make Cranberry Juice from Cranberry
 
@@ -31,6 +31,6 @@ The juice is obtained by&#10;&#9;&#9;crushing cranberries in a mill or by hand c
 |[blender](../part/blender.html)|1|
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

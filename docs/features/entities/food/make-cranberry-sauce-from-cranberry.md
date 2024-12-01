@@ -1,7 +1,7 @@
 ---
 title: Make Cranberry Sauce from Cranberry
 parent: Food Recipe
-nav_exclude: false
+nav_exclude: true
 ---
 # Food - Make Cranberry Sauce from Cranberry
 
@@ -33,6 +33,6 @@ Add sugar, salt, ginger to cranberries and cook in the pan over low heat, stirri
 |[blender](../part/blender.html)|1|
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

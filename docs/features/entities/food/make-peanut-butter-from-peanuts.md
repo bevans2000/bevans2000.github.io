@@ -1,7 +1,7 @@
 ---
 title: Make Peanut Butter from Peanuts
 parent: Food Recipe
-nav_exclude: false
+nav_exclude: true
 ---
 # Food - Make Peanut Butter from Peanuts
 
@@ -32,6 +32,6 @@ Ground peanuts, mix with oil, pour the mixture into food processor.&#10;&#9;&#9;
 |[blender](../part/blender.html)|1|
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

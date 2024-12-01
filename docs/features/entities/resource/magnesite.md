@@ -1,7 +1,7 @@
 ---
 title: Magnesite
 parent: Resource
-nav_exclude: false
+nav_exclude: true
 ---
 # Resource - Magnesite
 
@@ -21,5 +21,5 @@ A magnesium carbonate mineral MgCO3. Mixed&#10;&#9; crystals of iron(II) carbona
 
     
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

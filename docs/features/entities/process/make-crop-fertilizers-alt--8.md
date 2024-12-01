@@ -1,7 +1,7 @@
 ---
 title: Make crop fertilizers Alt #8
 parent: Manufacturing Process
-nav_exclude: false
+nav_exclude: true
 ---
 # Manufacturing Process - Make crop fertilizers Alt #8
 
@@ -36,6 +36,6 @@ nav_exclude: false
 |[Fertilizer](../resource/fertilizer.html)|3.0 kg|
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

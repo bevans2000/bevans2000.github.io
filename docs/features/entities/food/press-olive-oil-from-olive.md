@@ -1,7 +1,7 @@
 ---
 title: Press Olive Oil from Olive
 parent: Food Recipe
-nav_exclude: false
+nav_exclude: true
 ---
 # Food - Press Olive Oil from Olive
 
@@ -29,6 +29,6 @@ Ripe olives can yield up to 30% of oil. It&#39;s about &#10;&#9;&#9;&#9;3 kg of 
 |[Olive Oil](../resource/olive-oil.html)|0.9 kg|
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

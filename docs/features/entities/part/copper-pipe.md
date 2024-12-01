@@ -1,7 +1,7 @@
 ---
 title: Copper Pipe
 parent: Part
-nav_exclude: false
+nav_exclude: true
 ---
 # Part - Copper Pipe
 
@@ -24,6 +24,6 @@ A density of 8.94 g/cm3. length of 1m. Thickness of 2mm. Diameter of 20mm
 - [Make condenser coil](../process/make-condenser-coil.html)
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

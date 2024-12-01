@@ -1,7 +1,7 @@
 ---
 title: Metal Storage
 parent: Building Spec
-nav_exclude: false
+nav_exclude: true
 ---
 # Building Template - Metal Storage
 
@@ -19,7 +19,7 @@ The Metal Storage Bin is a small brick bin for storing metallic elements for ind
 |Maintenance Period:|50|
 |Power Demands:|0.0 kW|
 |Offline Power Demands:|0.0 kW|
-
+|Construction:|[Metal Storage](../construction/metal-storage.html)|
 
 ## Functions
       
@@ -28,5 +28,5 @@ The Metal Storage Bin is a small brick bin for storing metallic elements for ind
 
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

@@ -1,7 +1,7 @@
 ---
 title: Make Rice Vinegar by Fermentation
 parent: Food Recipe
-nav_exclude: false
+nav_exclude: true
 ---
 # Food - Make Rice Vinegar by Fermentation
 
@@ -37,6 +37,6 @@ Clean bottle with bleach. Add water to white rice and heat up mixture.&#10;&#9;&
 |[plastic bottle](../part/plastic-bottle.html)|5|
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

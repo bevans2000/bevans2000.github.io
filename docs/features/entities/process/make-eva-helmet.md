@@ -1,7 +1,7 @@
 ---
 title: Make EVA helmet
 parent: Manufacturing Process
-nav_exclude: false
+nav_exclude: true
 ---
 # Manufacturing Process - Make EVA helmet
 
@@ -32,6 +32,6 @@ nav_exclude: false
 |[EVA helmet](../part/eva-helmet.html)|1|
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

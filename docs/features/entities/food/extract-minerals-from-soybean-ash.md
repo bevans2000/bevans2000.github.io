@@ -1,7 +1,7 @@
 ---
 title: Extract Minerals from Soybean Ash
 parent: Food Recipe
-nav_exclude: false
+nav_exclude: true
 ---
 # Food - Extract Minerals from Soybean Ash
 
@@ -30,6 +30,6 @@ Extract minerals from Soybean Ash.
 |[Potassium](../resource/potassium.html)|0.018 kg|
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

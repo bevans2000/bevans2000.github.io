@@ -1,7 +1,7 @@
 ---
 title: Olivine
 parent: Resource
-nav_exclude: false
+nav_exclude: true
 ---
 # Resource - Olivine
 
@@ -21,5 +21,5 @@ A magnesium iron silicate (Mg2+, Fe2+)2SiO4. A type&#10;&#9; of nesosilicate or 
 
     
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

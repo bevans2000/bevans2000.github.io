@@ -1,7 +1,7 @@
 ---
 title: Methane Fuel cell
 parent: Part
-nav_exclude: false
+nav_exclude: true
 ---
 # Part - Methane Fuel cell
 
@@ -25,6 +25,6 @@ Assume each solid oxide fuel cell (SOFC) can generate 200W&#10;&#9;&#9;with the 
 - [Make methane fuel cell stack](../process/make-methane-fuel-cell-stack.html)
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

@@ -1,7 +1,7 @@
 ---
 title: Hallway
 parent: Building Spec
-nav_exclude: false
+nav_exclude: true
 ---
 # Building Template - Hallway
 
@@ -19,7 +19,7 @@ The Hallway is a pressurized access tube connecting two inhabitable buildings. I
 |Maintenance Period:|20|
 |Power Demands:|0.1 kW|
 |Offline Power Demands:|0.0 kW|
-
+|Construction:|[Hallway](../construction/hallway.html)|
 
 ## Functions
       
@@ -40,5 +40,5 @@ The Hallway is a pressurized access tube connecting two inhabitable buildings. I
 - Solar Heating
 - Electric Heating
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

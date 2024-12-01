@@ -1,7 +1,7 @@
 ---
 title: Outpost Hub
 parent: Building Spec
-nav_exclude: false
+nav_exclude: true
 ---
 # Building Template - Outpost Hub
 
@@ -19,7 +19,7 @@ The Outpost Hub is a vaulted brick building that acts as the main hub of a tradi
 |Maintenance Period:|250|
 |Power Demands:|2.0 kW|
 |Offline Power Demands:|0.2 kW|
-
+|Construction:|[Outpost Hub](../construction/outpost-hub.html)|
 
 ## Functions
       
@@ -56,5 +56,5 @@ The Outpost Hub is a vaulted brick building that acts as the main hub of a tradi
 - Electric Heating
 - Fuel Heating
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

@@ -1,7 +1,7 @@
 ---
 title: MD1 Nuclear Reactor
 parent: Building Spec
-nav_exclude: false
+nav_exclude: true
 ---
 # Building Template - MD1 Nuclear Reactor
 
@@ -20,7 +20,6 @@ The MD1 Nuclear Reactor at 40kW is the first compact fission power plant commiss
 |Power Demands:|0.25 kW|
 |Offline Power Demands:|0.025 kW|
 
-
 ## Functions
       
 - POWER_GENERATION
@@ -32,5 +31,5 @@ The MD1 Nuclear Reactor at 40kW is the first compact fission power plant commiss
 - Fission Power Source
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

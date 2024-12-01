@@ -1,7 +1,7 @@
 ---
 title: Aluminum Sheet
 parent: Part
-nav_exclude: false
+nav_exclude: true
 ---
 # Part - Aluminum Sheet
 
@@ -41,6 +41,6 @@ A density of 2.72 g/cm3. 1m x 1m x 1mm sheet of aluminum
 - [Manufacture large air duct](../process/manufacture-large-air-duct.html)
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

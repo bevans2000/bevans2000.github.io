@@ -1,7 +1,7 @@
 ---
 title: EVA Airlock
 parent: Building Spec
-nav_exclude: false
+nav_exclude: true
 ---
 # Building Template - EVA Airlock
 
@@ -19,7 +19,6 @@ The EVA Airlock is a node to be attached to building for giving direct access in
 |Maintenance Period:|200|
 |Power Demands:|1.0 kW|
 |Offline Power Demands:|0.1 kW|
-
 
 ## Functions
       
@@ -40,5 +39,5 @@ The EVA Airlock is a node to be attached to building for giving direct access in
 - Electric Heating
 - Fuel Heating
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

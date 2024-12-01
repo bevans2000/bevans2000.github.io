@@ -1,7 +1,7 @@
 ---
 title: Loading Dock Garage
 parent: Building Spec
-nav_exclude: false
+nav_exclude: true
 ---
 # Building Template - Loading Dock Garage
 
@@ -19,7 +19,7 @@ The Loading Dock Garage is an enclosed maintenance facility featuring a brick lo
 |Maintenance Period:|300|
 |Power Demands:|3.0 kW|
 |Offline Power Demands:|0.3 kW|
-
+|Construction:|[Loading Dock Garage](../construction/loading-dock-garage.html)|
 
 ## Functions
       
@@ -43,5 +43,5 @@ The Loading Dock Garage is an enclosed maintenance facility featuring a brick lo
 - Electric Heating
 - Fuel Heating
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

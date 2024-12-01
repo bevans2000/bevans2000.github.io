@@ -1,7 +1,7 @@
 ---
 title: Manufacture 30 kW Motor
 parent: Manufacturing Process
-nav_exclude: false
+nav_exclude: true
 ---
 # Manufacturing Process - Manufacture 30 kW Motor
 
@@ -30,6 +30,6 @@ nav_exclude: false
 |[Motor 30 kW](../part/motor-30-kw.html)|1|
 
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
 

@@ -1,7 +1,7 @@
 ---
 title: Electronic waste
 parent: Resource
-nav_exclude: false
+nav_exclude: true
 ---
 # Resource - Electronic waste
 
@@ -21,5 +21,5 @@ Electronic waste comprises discarded electronic devices, circuit boards and scra
 
     
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

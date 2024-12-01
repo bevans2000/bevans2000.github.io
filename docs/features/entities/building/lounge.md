@@ -1,7 +1,7 @@
 ---
 title: Lounge
 parent: Building Spec
-nav_exclude: false
+nav_exclude: true
 ---
 # Building Template - Lounge
 
@@ -19,7 +19,7 @@ The Lounge is a rest and relaxation living space furnished with dining tables an
 |Maintenance Period:|150|
 |Power Demands:|2.0 kW|
 |Offline Power Demands:|0.2 kW|
-
+|Construction:|[Lounge](../construction/lounge.html)|
 
 ## Functions
       
@@ -48,5 +48,5 @@ The Lounge is a rest and relaxation living space furnished with dining tables an
 - Electric Heating
 - Fuel Heating
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

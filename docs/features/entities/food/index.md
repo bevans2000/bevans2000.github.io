@@ -5,6 +5,12 @@ has_toc: false
 ---
 # Food Recipe
 Recipe (Food Process) to create Food
+
+Change via XML
+{: .label .label-green }
+
+
+
 - [Bake Wheat Bread from Wheat Flour](../food/bake-wheat-bread-from-wheat-flour.html)
 - [Bake Wheat Bun from Wheat Flour](../food/bake-wheat-bun-from-wheat-flour.html)
 - [Bake White Bread from Soy Flour](../food/bake-white-bread-from-soy-flour.html)
@@ -83,5 +89,5 @@ Recipe (Food Process) to create Food
 - [Produce Fiber Cloth from Cane or Soy Fiber](../food/produce-fiber-cloth-from-cane-or-soy-fiber.html)
 - [Produce Fiber Cloth from Cane or Soy Fiber Recipe #1](../food/produce-fiber-cloth-from-cane-or-soy-fiber-recipe--1.html)
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }

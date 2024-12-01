@@ -1,7 +1,7 @@
 ---
 title: Methanol
 parent: Resource
-nav_exclude: false
+nav_exclude: true
 ---
 # Resource - Methanol
 
@@ -27,5 +27,5 @@ Methanol CH3OH&#10;&#9;  can be used as a fuel source, solvent, pesticide, or &#
 
     
 
-Version: pre-3.9.0 Generated on: 2024-11-23T12:27:49.5801111
+Version: pre-3.9.0 Generated on: 2024-12-01T19:57:19.2243459
 {: .fs-3 }
