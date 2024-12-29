@@ -9,9 +9,9 @@ title: Mars Simulation Project
 
 
 {{% blocks/lead color="primary" %}}
-The MarsSim project is an Open Source that provides an automated simualtion of life on Mars for Settlers. [MarsSim](https://mars-sim.github.com))
+The MarsSim is an Open Source project that provides an automated simulation of life on Mars for Settlers.
 
-The simualtion has the following features.
+The simulation has the following features.
 {{% /blocks/lead %}}
 
 
@@ -23,7 +23,6 @@ Skills and Abilities modeled
 
 {{% /blocks/feature %}}
 
-
 {{% blocks/feature icon="fa-solid fa-city" title="Settlements"%}}
 Settlements created of various buildings
 Inter-Settlement commerce
@@ -33,16 +32,13 @@ Shift patterns of workers
 Controlling Reporting Authorities, e.g. **NASA**
 {{% /blocks/feature %}}
 
-
 {{% blocks/feature icon="fa-solid fa-briefcase" title="Missions" %}}
 Missions created and populated
 Members selected on skills
 {{% /blocks/feature %}}
 
-
 {{% /blocks/section %}}
 
-
-{{% blocks/section %}}
-Please read on for more [Information](/docs/introduction/), how to contribute and how to use.....
+{{% blocks/section color="secondary" %}}
+Please read on for more [Information](/docs/about/), how to contribute and how to use.....
 {{% /blocks/section %}}

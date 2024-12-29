@@ -2,7 +2,7 @@
 title: Starting the Simulation
 linktitle: Starting
 description: Starting Simulation instructions
-weight: 80
+weight: 30
 ---
 
 The distribution supports both Windows and Linux.
@@ -16,8 +16,6 @@ Start commands are:
 * bin/mars-sim-console 		- Linux start script for the Console headless variant
 * bin/mars-sim-console.cmd 	- Window start script for the Console headless variant
 
-The mars-sim application requires Java 21 or higher to be installed. 
-See https://jdk.java.net/java-se-ri/21
 
 ```
 Common command line arguments are:
